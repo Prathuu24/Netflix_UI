@@ -4,7 +4,7 @@
 
 ### A Modern Netflix-Inspired Login Experience Built with HTML & CSS
 
-<img src="./login.png" alt="Netflix UI Preview" width="100%"/>
+<img src="./home.png" alt="Netflix UI Preview" width="100%"/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3)
@@ -55,7 +55,7 @@ The objective was to improve frontend development skills while replicating the l
 
 ### Desktop View
 
-<img src="./login.png" alt="Desktop Preview" width="100%"/>
+<img src="_pg.png" alt="Desktop Preview" width="100%"/>
 
 ---
 
