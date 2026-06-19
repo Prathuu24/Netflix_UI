@@ -85,8 +85,9 @@ Netflix_UI/
 ├── index.html
 ├── style.css
 ├── login.png
-├── logo.png
-└── README.md
+├── login.html
+├── login.css
+└── assets
 ```
 
 ---
